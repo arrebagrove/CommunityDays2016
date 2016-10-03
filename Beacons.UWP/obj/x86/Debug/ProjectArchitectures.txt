@@ -1,0 +1,1 @@
+E:\SRC\CommunityDays2016\Beacons.UWP\Beacons.UWP.csproj;x86
